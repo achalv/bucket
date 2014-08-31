@@ -18,5 +18,4 @@ A list of things I want to do by the time I kick the bucket, in no particular or
 - [ ] Work on a coffee plantation
 - [ ] Have something named after me. Something. Anything.
 - [ ] Help at least 5 other people cross things off their bucket lists.
-
 - [ ] [Add activity](https://github.com/achalv/bucket/issues/new/ "Add activity")
