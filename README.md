@@ -1,15 +1,15 @@
-bucket
+Bucket
 ======
 
-A list of things I want to do by the time I kick the bucket, in no particular order.
+A list of things I want to do by the time I kick the bucket, in no particular order. If you have suggestions, and/or want to do cross something off of this list together, open a pull request!
 
 
 - [ ] BASE jump off of the world's tallest building
 - [ ] Visit all 7 continents
 - [ ] Buy a one-way ticket to a random location
 - [ ] Own a Library+Coffee Shop
-- [x] Overcome stage fright
-- [x] Improv. Comedy
+- [ ] Overcome stage fright
+- [ ] Improv Comedy
 - [ ] Run a marathon
 - [ ] Start playing the drums. Again.
 - [ ] Learn archery
