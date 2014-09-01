@@ -19,4 +19,5 @@ A list of things I want to do by the time I kick the bucket, in no particular or
 - [ ] Have something named after me. Something. Anything.
 - [ ] Help at least 5 other people cross things off their bucket lists.
 - [ ] Be cast as an extra in a (war) movie.
+- [ ] Build a a model train exhibit, to scale.
 - [ ] [Add activity](https://github.com/achalv/bucket/issues/new/ "Add activity")
