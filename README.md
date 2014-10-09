@@ -22,5 +22,5 @@ A list of things I want to do by the time I kick the bucket, in no particular or
 - [ ] Build a a model train exhibit, to scale.
 - [ ] Dress up as a video game character for no rhyme or reason.
 - [ ] High five a penguin.
-- [ ] Swim with Dolphins.
+- [ ] Learn how to Swing dance and Lindy Hop.
 - [ ] [Add activity](https://github.com/achalv/bucket/issues/new/ "Add activity")
