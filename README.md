@@ -23,4 +23,5 @@ A list of things I want to do by the time I kick the bucket, in no particular or
 - [ ] Dress up as a video game character for no rhyme or reason.
 - [ ] High five a penguin.
 - [ ] Learn how to Swing dance and Lindy Hop.
+- [ ] Spell ~~Ctulhu~~ Cthulhu correctly on the first try.
 - [ ] [Add activity](https://github.com/achalv/bucket/issues/new/ "Add activity")
